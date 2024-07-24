@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Poppins',sans-serif;
+    color: cornsilk;
+    text-align: center;
+    padding: 50px;
+}
+.form{
+    display: block;
+    text-align: center;
+    padding: 40px 60px;
+    color: #fff
+}
+button{
+    border: none;
+    outline: none;
+    padding: 6px 20px;
+    background: rgb(248, 109, 109);
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+}
