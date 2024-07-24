@@ -9,3 +9,4 @@ I have noticed that whenever I write down my day to day tasks, I complete them m
 >Project Description:
 
 **What this application does?:**
+It can add tasks for individual users by user authentication process. It can be used as a reminder of daily to do tasks.
